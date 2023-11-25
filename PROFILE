@@ -1,5 +1,5 @@
 Hello there; welcome 👋🏾
-I'm a Software Engineering \ software Developer student at HOLBERTON SCHOOL\ALX. I'm passionate about sharing knowledge, documentation, web engineering, I am on facebook (on my Facebook, build useful open-source projects, speak at some meetups and conferences, build technical communities.
+I'm a Software Engineering \ software Developer student at HOLBERTON SCHOOL\ALX.
 
 Here's a quick summary about me:
 
